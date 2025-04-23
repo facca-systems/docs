@@ -1,6 +1,6 @@
 {
 	"$schema": "https://mintlify.com/docs.json",
-	"theme": "mint",
+	"theme": "willow",
 	"name": "Facca Systems Docs",
 	"colors": {
 		"primary": "#8000FF",
